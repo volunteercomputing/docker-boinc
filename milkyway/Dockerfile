@@ -28,4 +28,4 @@ ONBUILD VOLUME /data
 WORKDIR /data
 
 # Default command.
-CMD ["/usr/bin/boinc", "--attach_project", "http://milkyway.cs.rpi.edu/milkyway/", "7913_9333e284359afe6618fa25eb0a30ced4"]
+CMD ["/usr/bin/boinc", "--attach_project", "http://milkyway.cs.rpi.edu/milkyway/", "7913_8d2f0606c3586622b8c3d0f46d6c8546"]
